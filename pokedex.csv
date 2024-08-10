@@ -1,0 +1,907 @@
+﻿Name,No,Type
+Bulbasaur,1,"grass, poison"
+Ivysaur,2,"grass, poison"
+Venusaur,3,"grass, poison"
+Charmander,4,fire
+Charmeleon,5,fire
+Charizard,6,"fire, flying"
+Squirtle,7,water
+Wartortle,8,water
+Blastoise,9,water
+Caterpie,10,bug
+Metapod,11,bug
+Butterfree,12,"bug, flying"
+Weedle,13,"bug, poison"
+Kakuna,14,"bug, poison"
+Beedrill,15,"bug, poison"
+Pidgey,16,"flying, normal"
+Pidgeotto,17,"flying, normal"
+Pidgeot,18,"flying, normal"
+Rattata,19,normal
+Raticate,20,normal
+Spearow,21,"flying, normal"
+Fearow,22,"flying, normal"
+Ekans,23,poison
+Arbok,24,poison
+Pikachu,25,electric
+Raichu,26,electric
+Sandshrew,27,ground
+Sandslash,28,ground
+Nidoran♀,29,poison
+Nidorina,30,poison
+Nidoqueen,31,"ground, poison"
+Nidoran♂,32,poison
+Nidorino,33,poison
+Nidoking,34,"ground, poison"
+Clefairy,35,fairy
+Clefable,36,fairy
+Vulpix,37,fire
+Ninetales,38,fire
+Jigglypuff,39,"fairy, normal"
+Wigglytuff,40,"fairy, normal"
+Zubat,41,"flying, poison"
+Golbat,42,"flying, poison"
+Oddish,43,"grass, poison"
+Gloom,44,"grass, poison"
+Vileplume,45,"grass, poison"
+Paras,46,"bug, grass"
+Parasect,47,"bug, grass"
+Venonat,48,"bug, poison"
+Venomoth,49,"bug, poison"
+Diglett,50,ground
+Dugtrio,51,ground
+Meowth,52,normal
+Persian,53,normal
+Psyduck,54,water
+Golduck,55,water
+Mankey,56,fighting
+Primeape,57,fighting
+Growlithe,58,fire
+Arcanine,59,fire
+Poliwag,60,water
+Poliwhirl,61,water
+Poliwrath,62,"fighting, water"
+Abra,63,psychic
+Kadabra,64,psychic
+Alakazam,65,psychic
+Machop,66,fighting
+Machoke,67,fighting
+Machamp,68,fighting
+Bellsprout,69,"grass, poison"
+Weepinbell,70,"grass, poison"
+Victreebel,71,"grass, poison"
+Tentacool,72,"poison, water"
+Tentacruel,73,"poison, water"
+Geodude,74,"ground, rock"
+Graveler,75,"ground, rock"
+Golem,76,"ground, rock"
+Ponyta,77,fire
+Rapidash,78,fire
+Slowpoke,79,"psychic, water"
+Slowbro,80,"psychic, water"
+Magnemite,81,"electric, steel"
+Magneton,82,"electric, steel"
+Farfetchd,83,"flying, normal"
+Doduo,84,"flying, normal"
+Dodrio,85,"flying, normal"
+Seel,86,water
+Dewgong,87,"ice, water"
+Grimer,88,poison
+Muk,89,poison
+Shellder,90,water
+Cloyster,91,"ice, water"
+Gastly,92,"ghost, poison"
+Haunter,93,"ghost, poison"
+Gengar,94,"ghost, poison"
+Onix,95,"ground, rock"
+Drowzee,96,psychic
+Hypno,97,psychic
+Krabby,98,water
+Kingler,99,water
+Voltorb,100,electric
+Electrode,101,electric
+Exeggcute,102,"grass, psychic"
+Exeggutor,103,"grass, psychic"
+Cubone,104,ground
+Marowak,105,ground
+Hitmonlee,106,fighting
+Hitmonchan,107,fighting
+Lickitung,108,normal
+Koffing,109,poison
+Weezing,110,poison
+Rhyhorn,111,"ground, rock"
+Rhydon,112,"ground, rock"
+Chansey,113,normal
+Tangela,114,grass
+Kangaskhan,115,normal
+Horsea,116,water
+Seadra,117,water
+Goldeen,118,water
+Seaking,119,water
+Staryu,120,water
+Starmie,121,"psychic, water"
+Mr. Mime,122,"fairy, psychic"
+Scyther,123,"bug, flying"
+Jynx,124,"ice, psychic"
+Electabuzz,125,electric
+Magmar,126,fire
+Pinsir,127,bug
+Tauros,128,normal
+Magikarp,129,water
+Gyarados,130,"flying, water"
+Lapras,131,"ice, water"
+Ditto,132,normal
+Eevee,133,normal
+Vaporeon,134,water
+Jolteon,135,electric
+Flareon,136,fire
+Porygon,137,normal
+Omanyte,138,"rock, water"
+Omastar,139,"rock, water"
+Kabuto,140,"rock, water"
+Kabutops,141,"rock, water"
+Aerodactyl,142,"flying, rock"
+Snorlax,143,normal
+Articuno,144,"flying, ice"
+Zapdos,145,"electric, flying"
+Moltres,146,"fire, flying"
+Dratini,147,dragon
+Dragonair,148,dragon
+Dragonite,149,"dragon, flying"
+Mewtwo,150,psychic
+Mew,151,psychic
+Chikorita,152,grass
+Bayleef,153,grass
+Meganium,154,grass
+Cyndaquil,155,fire
+Quilava,156,fire
+Typhlosion,157,fire
+Totodile,158,water
+Croconaw,159,water
+Feraligatr,160,water
+Sentret,161,normal
+Furret,162,normal
+Hoothoot,163,"flying, normal"
+Noctowl,164,"flying, normal"
+Ledyba,165,"bug, flying"
+Ledian,166,"bug, flying"
+Spinarak,167,"bug, poison"
+Ariados,168,"bug, poison"
+Crobat,169,"flying, poison"
+Chinchou,170,"electric, water"
+Lanturn,171,"electric, water"
+Pichu,172,electric
+Cleffa,173,fairy
+Igglybuff,174,"fairy, normal"
+Togepi,175,fairy
+Togetic,176,"fairy, flying"
+Natu,177,"flying, psychic"
+Xatu,178,"flying, psychic"
+Mareep,179,electric
+Flaaffy,180,electric
+Ampharos,181,electric
+Bellossom,182,grass
+Marill,183,"fairy, water"
+Azumarill,184,"fairy, water"
+Sudowoodo,185,rock
+Politoed,186,water
+Hoppip,187,"flying, grass"
+Skiploom,188,"flying, grass"
+Jumpluff,189,"flying, grass"
+Aipom,190,normal
+Sunkern,191,grass
+Sunflora,192,grass
+Yanma,193,"bug, flying"
+Wooper,194,"ground, water"
+Quagsire,195,"ground, water"
+Espeon,196,psychic
+Umbreon,197,dark
+Murkrow,198,"dark, flying"
+Slowking,199,"psychic, water"
+Misdreavus,200,ghost
+Unown,201,psychic
+Wobbuffet,202,psychic
+Girafarig,203,"normal, psychic"
+Pineco,204,bug
+Forretress,205,"bug, steel"
+Dunsparce,206,normal
+Gligar,207,"flying, ground"
+Steelix,208,"ground, steel"
+Snubbull,209,fairy
+Granbull,210,fairy
+Qwilfish,211,"poison, water"
+Scizor,212,"bug, steel"
+Shuckle,213,"bug, rock"
+Heracross,214,"bug, fighting"
+Sneasel,215,"dark, ice"
+Teddiursa,216,normal
+Ursaring,217,normal
+Slugma,218,fire
+Magcargo,219,"fire, rock"
+Swinub,220,"ground, ice"
+Piloswine,221,"ground, ice"
+Corsola,222,"rock, water"
+Remoraid,223,water
+Octillery,224,water
+Delibird,225,"flying, ice"
+Mantine,226,"flying, water"
+Skarmory,227,"flying, steel"
+Houndour,228,"dark, fire"
+Houndoom,229,"dark, fire"
+Kingdra,230,"dragon, water"
+Phanpy,231,ground
+Donphan,232,ground
+Porygon2,233,normal
+Stantler,234,normal
+Smeargle,235,normal
+Tyrogue,236,fighting
+Hitmontop,237,fighting
+Smoochum,238,"ice, psychic"
+Elekid,239,electric
+Magby,240,fire
+Miltank,241,normal
+Blissey,242,normal
+Raikou,243,electric
+Entei,244,fire
+Suicune,245,water
+Larvitar,246,"ground, rock"
+Pupitar,247,"ground, rock"
+Tyranitar,248,"dark, rock"
+Lugia,249,"flying, psychic"
+Ho-Oh,250,"fire, flying"
+Celebi,251,"grass, psychic"
+Treecko,252,grass
+Grovyle,253,grass
+Sceptile,254,grass
+Torchic,255,fire
+Combusken,256,"fighting, fire"
+Blaziken,257,"fighting, fire"
+Mudkip,258,water
+Marshtomp,259,"ground, water"
+Swampert,260,"ground, water"
+Poochyena,261,dark
+Mightyena,262,dark
+Zigzagoon,263,normal
+Linoone,264,normal
+Wurmple,265,bug
+Silcoon,266,bug
+Beautifly,267,"bug, flying"
+Cascoon,268,bug
+Dustox,269,"bug, poison"
+Lotad,270,"grass, water"
+Lombre,271,"grass, water"
+Ludicolo,272,"grass, water"
+Seedot,273,grass
+Nuzleaf,274,"dark, grass"
+Shiftry,275,"dark, grass"
+Taillow,276,"flying, normal"
+Swellow,277,"flying, normal"
+Wingull,278,"flying, water"
+Pelipper,279,"flying, water"
+Ralts,280,"fairy, psychic"
+Kirlia,281,"fairy, psychic"
+Gardevoir,282,"fairy, psychic"
+Surskit,283,"bug, water"
+Masquerain,284,"bug, flying"
+Shroomish,285,grass
+Breloom,286,"fighting, grass"
+Slakoth,287,normal
+Vigoroth,288,normal
+Slaking,289,normal
+Nincada,290,"bug, ground"
+Ninjask,291,"bug, flying"
+Shedinja,292,"bug, ghost"
+Whismur,293,normal
+Loudred,294,normal
+Exploud,295,normal
+Makuhita,296,fighting
+Hariyama,297,fighting
+Azurill,298,"fairy, normal"
+Nosepass,299,rock
+Skitty,300,normal
+Delcatty,301,normal
+Sableye,302,"dark, ghost"
+Mawile,303,"fairy, steel"
+Aron,304,"rock, steel"
+Lairon,305,"rock, steel"
+Aggron,306,"rock, steel"
+Meditite,307,"fighting, psychic"
+Medicham,308,"fighting, psychic"
+Electrike,309,electric
+Manectric,310,electric
+Plusle,311,electric
+Minun,312,electric
+Volbeat,313,bug
+Illumise,314,bug
+Roselia,315,"grass, poison"
+Gulpin,316,poison
+Swalot,317,poison
+Carvanha,318,"dark, water"
+Sharpedo,319,"dark, water"
+Wailmer,320,water
+Wailord,321,water
+Numel,322,"fire, ground"
+Camerupt,323,"fire, ground"
+Torkoal,324,fire
+Spoink,325,psychic
+Grumpig,326,psychic
+Spinda,327,normal
+Trapinch,328,ground
+Vibrava,329,"dragon, ground"
+Flygon,330,"dragon, ground"
+Cacnea,331,grass
+Cacturne,332,"dark, grass"
+Swablu,333,"flying, normal"
+Altaria,334,"dragon, flying"
+Zangoose,335,normal
+Seviper,336,poison
+Lunatone,337,"psychic, rock"
+Solrock,338,"psychic, rock"
+Barboach,339,"ground, water"
+Whiscash,340,"ground, water"
+Corphish,341,water
+Crawdaunt,342,"dark, water"
+Baltoy,343,"ground, psychic"
+Claydol,344,"ground, psychic"
+Lileep,345,"grass, rock"
+Cradily,346,"grass, rock"
+Anorith,347,"bug, rock"
+Armaldo,348,"bug, rock"
+Feebas,349,water
+Milotic,350,water
+Castform,351,normal
+Kecleon,352,normal
+Shuppet,353,ghost
+Banette,354,ghost
+Duskull,355,ghost
+Dusclops,356,ghost
+Tropius,357,"flying, grass"
+Chimecho,358,psychic
+Absol,359,dark
+Wynaut,360,psychic
+Snorunt,361,ice
+Glalie,362,ice
+Spheal,363,"ice, water"
+Sealeo,364,"ice, water"
+Walrein,365,"ice, water"
+Clamperl,366,water
+Huntail,367,water
+Gorebyss,368,water
+Relicanth,369,"rock, water"
+Luvdisc,370,water
+Bagon,371,dragon
+Shelgon,372,dragon
+Salamence,373,"dragon, flying"
+Beldum,374,"psychic, steel"
+Metang,375,"psychic, steel"
+Metagross,376,"psychic, steel"
+Regirock,377,rock
+Regice,378,ice
+Registeel,379,steel
+Latias,380,"dragon, psychic"
+Latios,381,"dragon, psychic"
+Kyogre,382,water
+Groudon,383,ground
+Rayquaza,384,"dragon, flying"
+Jirachi,385,"psychic, steel"
+Deoxys,386,psychic
+Turtwig,387,grass
+Grotle,388,grass
+Torterra,389,"grass, ground"
+Chimchar,390,fire
+Monferno,391,"fighting, fire"
+Infernape,392,"fighting, fire"
+Piplup,393,water
+Prinplup,394,water
+Empoleon,395,"steel, water"
+Starly,396,"flying, normal"
+Staravia,397,"flying, normal"
+Staraptor,398,"flying, normal"
+Bidoof,399,normal
+Bibarel,400,"normal, water"
+Kricketot,401,bug
+Kricketune,402,bug
+Shinx,403,electric
+Luxio,404,electric
+Luxray,405,electric
+Budew,406,"grass, poison"
+Roserade,407,"grass, poison"
+Cranidos,408,rock
+Rampardos,409,rock
+Shieldon,410,"rock, steel"
+Bastiodon,411,"rock, steel"
+Burmy,412,bug
+Wormadam,413,"bug, grass"
+Mothim,414,"bug, flying"
+Combee,415,"bug, flying"
+Vespiquen,416,"bug, flying"
+Pachirisu,417,electric
+Buizel,418,water
+Floatzel,419,water
+Cherubi,420,grass
+Cherrim,421,grass
+Shellos,422,water
+Gastrodon,423,"ground, water"
+Ambipom,424,normal
+Drifloon,425,"flying, ghost"
+Drifblim,426,"flying, ghost"
+Buneary,427,normal
+Lopunny,428,normal
+Mismagius,429,ghost
+Honchkrow,430,"dark, flying"
+Glameow,431,normal
+Purugly,432,normal
+Chingling,433,psychic
+Stunky,434,"dark, poison"
+Skuntank,435,"dark, poison"
+Bronzor,436,"psychic, steel"
+Bronzong,437,"psychic, steel"
+Bonsly,438,rock
+Mime Jr.,439,"fairy, psychic"
+Happiny,440,normal
+Chatot,441,"flying, normal"
+Spiritomb,442,"dark, ghost"
+Gible,443,"dragon, ground"
+Gabite,444,"dragon, ground"
+Garchomp,445,"dragon, ground"
+Munchlax,446,normal
+Riolu,447,fighting
+Lucario,448,"fighting, steel"
+Hippopotas,449,ground
+Hippowdon,450,ground
+Skorupi,451,"bug, poison"
+Drapion,452,"dark, poison"
+Croagunk,453,"fighting, poison"
+Toxicroak,454,"fighting, poison"
+Carnivine,455,grass
+Finneon,456,water
+Lumineon,457,water
+Mantyke,458,"flying, water"
+Snover,459,"grass, ice"
+Abomasnow,460,"grass, ice"
+Weavile,461,"dark, ice"
+Magnezone,462,"electric, steel"
+Lickilicky,463,normal
+Rhyperior,464,"ground, rock"
+Tangrowth,465,grass
+Electivire,466,electric
+Magmortar,467,fire
+Togekiss,468,"fairy, flying"
+Yanmega,469,"bug, flying"
+Leafeon,470,grass
+Glaceon,471,ice
+Gliscor,472,"flying, ground"
+Mamoswine,473,"ground, ice"
+Porygon-Z,474,normal
+Gallade,475,"fighting, psychic"
+Probopass,476,"rock, steel"
+Dusknoir,477,ghost
+Froslass,478,"ghost, ice"
+Rotom,479,"electric, ghost"
+Uxie,480,psychic
+Mesprit,481,psychic
+Azelf,482,psychic
+Dialga,483,"dragon, steel"
+Palkia,484,"dragon, water"
+Heatran,485,"fire, steel"
+Regigigas,486,normal
+Giratina,487,"dragon, ghost"
+Cresselia,488,psychic
+Phione,489,water
+Manaphy,490,water
+Darkrai,491,dark
+Shaymin,492,grass
+Arceus,493,normal
+Victini,494,"fire, psychic"
+Snivy,495,grass
+Servine,496,grass
+Serperior,497,grass
+Tepig,498,fire
+Pignite,499,"fighting, fire"
+Emboar,500,"fighting, fire"
+Oshawott,501,water
+Dewott,502,water
+Samurott,503,water
+Patrat,504,normal
+Watchog,505,normal
+Lillipup,506,normal
+Herdier,507,normal
+Stoutland,508,normal
+Purrloin,509,dark
+Liepard,510,dark
+Pansage,511,grass
+Simisage,512,grass
+Pansear,513,fire
+Simisear,514,fire
+Panpour,515,water
+Simipour,516,water
+Munna,517,psychic
+Musharna,518,psychic
+Pidove,519,"flying, normal"
+Tranquill,520,"flying, normal"
+Unfezant,521,"flying, normal"
+Blitzle,522,electric
+Zebstrika,523,electric
+Roggenrola,524,rock
+Boldore,525,rock
+Gigalith,526,rock
+Woobat,527,"flying, psychic"
+Swoobat,528,"flying, psychic"
+Drilbur,529,ground
+Excadrill,530,"ground, steel"
+Audino,531,normal
+Timburr,532,fighting
+Gurdurr,533,fighting
+Conkeldurr,534,fighting
+Tympole,535,water
+Palpitoad,536,"ground, water"
+Seismitoad,537,"ground, water"
+Throh,538,fighting
+Sawk,539,fighting
+Sewaddle,540,"bug, grass"
+Swadloon,541,"bug, grass"
+Leavanny,542,"bug, grass"
+Venipede,543,"bug, poison"
+Whirlipede,544,"bug, poison"
+Scolipede,545,"bug, poison"
+Cottonee,546,"fairy, grass"
+Whimsicott,547,"fairy, grass"
+Petilil,548,grass
+Lilligant,549,grass
+Basculin,550,water
+Sandile,551,"dark, ground"
+Krokorok,552,"dark, ground"
+Krookodile,553,"dark, ground"
+Darumaka,554,fire
+Darmanitan,555,fire
+Maractus,556,grass
+Dwebble,557,"bug, rock"
+Crustle,558,"bug, rock"
+Scraggy,559,"dark, fighting"
+Scrafty,560,"dark, fighting"
+Sigilyph,561,"flying, psychic"
+Yamask,562,ghost
+Cofagrigus,563,ghost
+Tirtouga,564,"rock, water"
+Carracosta,565,"rock, water"
+Archen,566,"flying, rock"
+Archeops,567,"flying, rock"
+Trubbish,568,poison
+Garbodor,569,poison
+Zorua,570,dark
+Zoroark,571,dark
+Minccino,572,normal
+Cinccino,573,normal
+Gothita,574,psychic
+Gothorita,575,psychic
+Gothitelle,576,psychic
+Solosis,577,psychic
+Duosion,578,psychic
+Reuniclus,579,psychic
+Ducklett,580,"flying, water"
+Swanna,581,"flying, water"
+Vanillite,582,ice
+Vanillish,583,ice
+Vanilluxe,584,ice
+Deerling,585,"grass, normal"
+Sawsbuck,586,"grass, normal"
+Emolga,587,"electric, flying"
+Karrablast,588,bug
+Escavalier,589,"bug, steel"
+Foongus,590,"grass, poison"
+Amoonguss,591,"grass, poison"
+Frillish,592,"ghost, water"
+Jellicent,593,"ghost, water"
+Alomomola,594,water
+Joltik,595,"bug, electric"
+Galvantula,596,"bug, electric"
+Ferroseed,597,"grass, steel"
+Ferrothorn,598,"grass, steel"
+Klink,599,steel
+Klang,600,steel
+Klinklang,601,steel
+Tynamo,602,electric
+Eelektrik,603,electric
+Eelektross,604,electric
+Elgyem,605,psychic
+Beheeyem,606,psychic
+Litwick,607,"fire, ghost"
+Lampent,608,"fire, ghost"
+Chandelure,609,"fire, ghost"
+Axew,610,dragon
+Fraxure,611,dragon
+Haxorus,612,dragon
+Cubchoo,613,ice
+Beartic,614,ice
+Cryogonal,615,ice
+Shelmet,616,bug
+Accelgor,617,bug
+Stunfisk,618,"electric, ground"
+Mienfoo,619,fighting
+Mienshao,620,fighting
+Druddigon,621,dragon
+Golett,622,"ghost, ground"
+Golurk,623,"ghost, ground"
+Pawniard,624,"dark, steel"
+Bisharp,625,"dark, steel"
+Bouffalant,626,normal
+Rufflet,627,"flying, normal"
+Braviary,628,"flying, normal"
+Vullaby,629,"dark, flying"
+Mandibuzz,630,"dark, flying"
+Heatmor,631,fire
+Durant,632,"bug, steel"
+Deino,633,"dark, dragon"
+Zweilous,634,"dark, dragon"
+Hydreigon,635,"dark, dragon"
+Larvesta,636,"bug, fire"
+Volcarona,637,"bug, fire"
+Cobalion,638,"fighting, steel"
+Terrakion,639,"fighting, rock"
+Virizion,640,"fighting, grass"
+Tornadus,641,flying
+Thundurus,642,"electric, flying"
+Reshiram,643,"dragon, fire"
+Zekrom,644,"dragon, electric"
+Landorus,645,"flying, ground"
+Kyurem,646,"dragon, ice"
+Keldeo,647,"fighting, water"
+Meloetta,648,"normal, psychic"
+Genesect,649,"bug, steel"
+Chespin,650,grass
+Quilladin,651,grass
+Chesnaught,652,"fighting, grass"
+Fennekin,653,fire
+Braixen,654,fire
+Delphox,655,"fire, psychic"
+Froakie,656,water
+Frogadier,657,water
+Greninja,658,"dark, water"
+Bunnelby,659,normal
+Diggersby,660,"ground, normal"
+Fletchling,661,"flying, normal"
+Fletchinder,662,"fire, flying"
+Talonflame,663,"fire, flying"
+Scatterbug,664,bug
+Spewpa,665,bug
+Vivillon,666,"bug, flying"
+Litleo,667,"fire, normal"
+Pyroar,668,"fire, normal"
+Flabébé,669,fairy
+Floette,670,fairy
+Florges,671,fairy
+Skiddo,672,grass
+Gogoat,673,grass
+Pancham,674,fighting
+Pangoro,675,"dark, fighting"
+Furfrou,676,normal
+Espurr,677,psychic
+Meowstic,678,psychic
+Honedge,679,"ghost, steel"
+Doublade,680,"ghost, steel"
+Aegislash,681,"ghost, steel"
+Spritzee,682,fairy
+Aromatisse,683,fairy
+Swirlix,684,fairy
+Slurpuff,685,fairy
+Inkay,686,"dark, psychic"
+Malamar,687,"dark, psychic"
+Binacle,688,"rock, water"
+Barbaracle,689,"rock, water"
+Skrelp,690,"poison, water"
+Dragalge,691,"dragon, poison"
+Clauncher,692,water
+Clawitzer,693,water
+Helioptile,694,"electric, normal"
+Heliolisk,695,"electric, normal"
+Tyrunt,696,"dragon, rock"
+Tyrantrum,697,"dragon, rock"
+Amaura,698,"ice, rock"
+Aurorus,699,"ice, rock"
+Sylveon,700,fairy
+Hawlucha,701,"fighting, flying"
+Dedenne,702,"electric, fairy"
+Carbink,703,"fairy, rock"
+Goomy,704,dragon
+Sliggoo,705,dragon
+Goodra,706,dragon
+Klefki,707,"fairy, steel"
+Phantump,708,"ghost, grass"
+Trevenant,709,"ghost, grass"
+Pumpkaboo,710,"ghost, grass"
+Gourgeist,711,"ghost, grass"
+Bergmite,712,ice
+Avalugg,713,ice
+Noibat,714,"dragon, flying"
+Noivern,715,"dragon, flying"
+Xerneas,716,fairy
+Yveltal,717,"dark, flying"
+Zygarde,718,"dragon, ground"
+Diancie,719,"fairy, rock"
+Hoopa,720,"ghost, psychic"
+Volcanion,721,"fire, water"
+Rowlet,722,"flying, grass"
+Dartrix,723,"flying, grass"
+Decidueye,724,"ghost, grass"
+Litten,725,fire
+Torracat,726,fire
+Incineroar,727,"dark, fire"
+Popplio,728,water
+Brionne,729,water
+Primarina,730,"fairy, water"
+Pikipek,731,"flying, normal"
+Trumbeak,732,"flying, normal"
+Toucannon,733,"flying, normal"
+Yungoos,734,normal
+Gumshoos,735,normal
+Grubbin,736,bug
+Charjabug,737,"bug, electric"
+Vikavolt,738,"bug, electric"
+Crabrawler,739,fighting
+Crabominable,740,"fighting, ice"
+Oricorio,741,"fire, flying"
+Cutiefly,742,"bug, fairy"
+Ribombee,743,"bug, fairy"
+Rockruff,744,rock
+Lycanroc,745,rock
+Wishiwashi,746,water
+Mareanie,747,"poison, water"
+Toxapex,748,"poison, water"
+Mudbray,749,ground
+Mudsdale,750,ground
+Dewpider,751,"bug, water"
+Araquanid,752,"bug, water"
+Fomantis,753,grass
+Lurantis,754,grass
+Morelull,755,"fairy, grass"
+Shiinotic,756,"fairy, grass"
+Salandit,757,"fire, poison"
+Salazzle,758,"fire, poison"
+Stufful,759,"fighting, normal"
+Bewear,760,"fighting, normal"
+Bounsweet,761,grass
+Steenee,762,grass
+Tsareena,763,grass
+Comfey,764,fairy
+Oranguru,765,"normal, psychic"
+Passimian,766,fighting
+Wimpod,767,"bug, water"
+Golisopod,768,"bug, water"
+Sandygast,769,"ghost, ground"
+Palossand,770,"ghost, ground"
+Pyukumuku,771,water
+Type: Null,772,normal
+Silvally,773,normal
+Minior,774,"flying, rock"
+Komala,775,normal
+Turtonator,776,"dragon, fire"
+Togedemaru,777,"electric, steel"
+Mimikyu,778,"fairy, ghost"
+Bruxish,779,"psychic, water"
+Drampa,780,"dragon, normal"
+Dhelmise,781,"ghost, grass"
+Jangmo-o,782,dragon
+Hakamo-o,783,"dragon, fighting"
+Kommo-o,784,"dragon, fighting"
+Tapu Koko,785,"electric, fairy"
+Tapu Lele,786,"fairy, psychic"
+Tapu Bulu,787,"fairy, grass"
+Tapu Fini,788,"fairy, water"
+Cosmog,789,psychic
+Cosmoem,790,psychic
+Solgaleo,791,"psychic, steel"
+Lunala,792,"ghost, psychic"
+Nihilego,793,"poison, rock"
+Buzzwole,794,"bug, fighting"
+Pheromosa,795,"bug, fighting"
+Xurkitree,796,electric
+Celesteela,797,"flying, steel"
+Kartana,798,"grass, steel"
+Guzzlord,799,"dark, dragon"
+Necrozma,800,psychic
+Magearna,801,"fairy, steel"
+Marshadow,802,"fighting, ghost"
+Poipole,803,poison
+Naganadel,804,"dragon, poison"
+Stakataka,805,"rock, steel"
+Blacephalon,806,"fire, ghost"
+Zeraora,807,electric
+Meltan,808,steel
+Melmetal,809,steel
+Grookey,810,grass
+Thwackey,811,grass
+Rillaboom,812,grass
+Scorbunny,813,fire
+Raboot,814,fire
+Cinderace,815,fire
+Sobble,816,water
+Drizzile,817,water
+Inteleon,818,water
+Skwovet,819,normal
+Greedent,820,normal
+Rookidee,821,flying
+Corvisquire,822,flying
+Corviknight,823,"flying, steel"
+Blipbug,824,bug
+Dottler,825,"bug, psychic"
+Orbeetle,826,"bug, psychic"
+Nickit,827,dark
+Thievul,828,dark
+Gossifleur,829,grass
+Eldegoss,830,grass
+Wooloo,831,normal
+Dubwool,832,normal
+Chewtle,833,water
+Drednaw,834,"rock, water"
+Yamper,835,electric
+Boltund,836,electric
+Rolycoly,837,rock
+Carkol,838,"fire, rock"
+Coalossal,839,"fire, rock"
+Applin,840,"dragon, grass"
+Flapple,841,"dragon, grass"
+Appletun,842,"dragon, grass"
+Silicobra,843,ground
+Sandaconda,844,ground
+Cramorant,845,"flying, water"
+Arrokuda,846,water
+Barraskewda,847,water
+Toxel,848,"electric, poison"
+Toxtricity,849,"electric, poison"
+Sizzlipede,850,"bug, fire"
+Centiskorch,851,"bug, fire"
+Clobbopus,852,fighting
+Grapploct,853,fighting
+Sinistea,854,ghost
+Polteageist,855,ghost
+Hatenna,856,psychic
+Hattrem,857,psychic
+Hatterene,858,"fairy, psychic"
+Impidimp,859,"dark, fairy"
+Morgrem,860,"dark, fairy"
+Grimmsnarl,861,"dark, fairy"
+Obstagoon,862,"dark, normal"
+Perrserker,863,steel
+Cursola,864,ghost
+Sirfetchd,865,fighting
+Mr. Rime,866,"ice, psychic"
+Runerigus,867,"ghost, ground"
+Milcery,868,fairy
+Alcremie,869,fairy
+Falinks,870,fighting
+Pincurchin,871,electric
+Snom,872,"bug, ice"
+Frosmoth,873,"bug, ice"
+Stonjourner,874,rock
+Eiscue,875,ice
+Indeedee,876,"normal, psychic"
+Morpeko,877,"dark, electric"
+Cufant,878,steel
+Copperajah,879,steel
+Dracozolt,880,"dragon, electric"
+Arctozolt,881,"electric, ice"
+Dracovish,882,"dragon, water"
+Arctovish,883,"ice, water"
+Duraludon,884,"dragon, steel"
+Dreepy,885,"dragon, ghost"
+Drakloak,886,"dragon, ghost"
+Dragapult,887,"dragon, ghost"
+Zacian,888,fairy
+Zamazenta,889,fighting
+Eternatus,890,"dragon, poison"
+Kubfu,891,fighting
+Urshifu,892,"dark, fighting"
+Zarude,893,"dark, grass"
+Regieleki,894,electric
+Regidrago,895,dragon
+Glastrier,896,ice
+Spectrier,897,ghost
+Calyrex,898,"grass, psychic"
+Wyrdeer,899,"normal, psychic"
+Kleavor,900,"bug, rock"
+Ursaluna,901,"ground, normal"
+Basculegion,902,"ghost, water"
+Sneasler,903,"fighting, poison"
+Overqwil,904,"dark, poison"
+Enamorus,905,"fairy, flying"
+,,
